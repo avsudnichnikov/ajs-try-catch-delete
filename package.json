@@ -2,7 +2,7 @@
   "name": "js-adv-try-catch-delete-start",
   "version": "0.0.1",
   "license": "ISC",
-  "author": "avsudnichniko",
+  "author": "avsudnichnikov",
   "scripts": {
     "lint": "eslint js",
     "serve": "browser-sync ."
